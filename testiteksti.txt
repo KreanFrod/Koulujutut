@@ -1,4 +1,4 @@
 class Luokka {
-function Metodi1112()
+function Metodi112()
 
 };
