@@ -1,6 +1,0 @@
-Asennettuna on nyt Enterprise Architect, Netbeans IDE (Mukana tuli Maven), IntelliJ IDEA, Xampp control panel, Git ja GitKraken. 
-
-Eiköhän näillä jo eteenpäin pääse. 
-
-Terveisin,
-Marika Nokso
