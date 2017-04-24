@@ -3,19 +3,27 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package harjoitukset2;
+package Harjoitukset2;
+
+import harjoitukset2.Matriisi;
+import harjoitukset2.Matriisilaskin;
 
 /**
  *
  * @author Marika
  */
 public class Harjoitukset2 {
-
-    /**
-     * @param args the command line arguments
-     */
+//Luodaan matriisioliot ja kutsutaan matriisin muodostus ja tulostus toimintoja
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    Matriisi eka = new Matriisi();
+    eka.createMatriisi1();
+    eka.printMatriisi();
     
-}
+    Matriisi toka = new Matriisi();
+    toka.createMatriisi2();
+    toka.printMatriisi();
+    }   
+    
+    }
+
+
