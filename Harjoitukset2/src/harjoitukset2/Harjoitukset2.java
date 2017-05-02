@@ -22,8 +22,10 @@ public class Harjoitukset2 {
     Matriisi toka = new Matriisi();
     toka.createMatriisi2();
     toka.printMatriisi();
-    }   
-    
+       
+    summaMatriisi(eka,toka);
+
+    //Tähän pitää nyt vielä kehittää jotain järkevää
     }
 
 
