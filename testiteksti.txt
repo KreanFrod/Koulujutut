@@ -1,4 +1,4 @@
 class Luokka {
 function Metodi112()
-
+T‰‰kin on taas t‰‰ll‰ :)
 };
