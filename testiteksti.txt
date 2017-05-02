@@ -1,4 +1,0 @@
-class Luokka {
-function Metodi112()
-
-};
